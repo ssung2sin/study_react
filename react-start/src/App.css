@@ -8,6 +8,7 @@
   font-weight: bold;
   margin-bottom: 100px;
   text-shadow: 5px 5px 5px gray;
+<<<<<<< HEAD
 }
 
 div.box{
@@ -33,4 +34,6 @@ li.data{
   border: 1px solid gray;
   text-align: center;
   cursor: pointer;
+=======
+>>>>>>> 15c9e18740b1590def59dd2a16165c6faf19e85e
 }

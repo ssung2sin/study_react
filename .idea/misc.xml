@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="FLOW" />
   </component>
 =======
 >>>>>>> 1532a39f802f6f89f15d0466dbab67efddb54c88
+=======
+>>>>>>> 15c9e18740b1590def59dd2a16165c6faf19e85e
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>

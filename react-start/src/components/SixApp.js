@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 import React, {useState} from 'react';
+=======
+import React from 'react';
+>>>>>>> 15c9e18740b1590def59dd2a16165c6faf19e85e
 import Alert from '@mui/material/Alert';
 import FastfoodIcon from '@mui/icons-material/Fastfood';
 
 function SixApp(props) {
+<<<<<<< HEAD
 
     const [names,setNames] = useState(['진평','현규','희찬','민규','성신']);
     const [irum,setIrum]=useState('');
@@ -60,6 +65,12 @@ function SixApp(props) {
                                                  onDoubleClick={()=>dataRemove(index)}>{name}</li>))
                 }
             </ul>
+=======
+    return (
+        <div>
+            <h3 className={'alert alert-info'}>SixApp입니다</h3>
+            <Alert severity="info">배열연습<FastfoodIcon/></Alert>
+>>>>>>> 15c9e18740b1590def59dd2a16165c6faf19e85e
         </div>
     );
 }
