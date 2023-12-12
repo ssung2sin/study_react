@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+<<<<<<< HEAD
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+=======
+>>>>>>> 1532a39f802f6f89f15d0466dbab67efddb54c88
+    <mapping directory="$PROJECT_DIR$/react-start" vcs="Git" />
+  </component>
+</project>
